@@ -10,10 +10,10 @@ Here is a growing collection of resources and helpful comments to know when work
 - [git add](./Commands/Add.md)
 - [git commit](./Commands/Commit.md)
 - [git remote](./Commands/Remote.md)
-- [git push](./commands/PUSH.md)
+- [git push](./commands/Push.md)
 - [git pull](./Commands/Pull.md)
 - [git status](./Commands/Status.md)
-- [git clone](./Commands.Clone.md)
+- [git clone](./Commands/Clone.md)
 
 ## External Resources
 - [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
